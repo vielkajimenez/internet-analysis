@@ -1,4 +1,4 @@
-# internet-analysis
+# Internet-analysis
  
  This project analyzes data on internet usage from Our World in Data (via the World Bank and International Telecommunications Union)
  It  answers: 
